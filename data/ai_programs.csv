@@ -1,0 +1,5 @@
+program,owner,status,budget_usd,actual_usd,milestones_total,milestones_on_time,critical_dependencies,high_risks,value_score
+GenAI Knowledge Assistant,Product AI,Green,1200000,1090000,18,17,2,1,92
+Predictive Maintenance AI,Industrial Analytics,Amber,2100000,2240000,22,18,5,3,84
+AI Service Agent,Customer Operations,Green,950000,910000,15,14,1,1,89
+Document Intelligence,Finance Automation,Red,700000,810000,12,8,6,4,71
