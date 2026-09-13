@@ -1,0 +1,2 @@
+risk_id,description,category,likelihood,impact,score,owner,mitigation,status,due_date
+R-001,Example production dependency,Delivery,3,5,15,Engineering Lead,Complete integration test,Open,2026-10-15
